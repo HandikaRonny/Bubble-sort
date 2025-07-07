@@ -17,7 +17,7 @@ Jumlah ini termasuk dalam pertumbuhan kuadrat, atau disebut **kompleksitas waktu
 
 ### Contoh Sederhana
 
-Misalnya kita memiliki array dengan 5 elemen:
+Misalnya ada array dengan 5 elemen:
 
 [5, 3, 1, 4, 2]
 
@@ -32,6 +32,6 @@ Total = **10 perbandingan** untuk 5 elemen
 Jika datanya 10 elemen → bisa jadi **45 perbandingan**  
 Jika 100 elemen → bisa mencapai **4.950 perbandingan**
 
-### 🛑 Kesimpulan
+### Kesimpulan
 
 Karena jumlah perbandingan bertambah secara kuadrat seiring bertambahnya data, **Bubble Sort memiliki kompleksitas waktu O(n²)**. Ini menjadikannya **tidak efisien untuk dataset besar**, dan lebih cocok digunakan untuk tujuan pembelajaran atau dataset kecil.
